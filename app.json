@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ArtSpark",
-    "slug": "ArtSpark",
+    "slug": "artspark",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ba485150-b817-4fd9-9f59-f3aed58f3a8c"
+      }
+    },
+    "owner": "eaglearcher"
   }
 }
